@@ -22,4 +22,5 @@ Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
 |:---:|:---:|
 |![DP100](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-i-scientific-computing-python-with-honors%20(1).png)|![DP200](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-ii-machine-learning-statistical-analysis-with-honors%20(1).png)|
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </h3>
