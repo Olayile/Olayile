@@ -22,6 +22,7 @@ Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
 |:---:|:---:|
 |![DP100](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-i-scientific-computing-python-with-honors%20(1).png)|![DP200](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-ii-machine-learning-statistical-analysis-with-honors%20(1).png)|
 
+[<img src="https://github.com/Olayile/Olayile/blob/main/assets/Screenshot%202021-12-16%20at%2016.03.31.png" width="250"/>](image.png)
 
 ![DP100](https://github.com/Olayile/Olayile/blob/main/assets/Screenshot%202021-12-16%20at%2016.03.31.png =100x20)
 
