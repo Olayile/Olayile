@@ -24,7 +24,7 @@ Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
 
 [<img src="https://github.com/Olayile/Olayile/blob/main/assets/Screenshot%202021-12-16%20at%2016.03.31.png" width="250"/>](image.png)
 
-![DP100](https://github.com/Olayile/Olayile/blob/main/assets/Screenshot%202021-12-16%20at%2016.03.31.png =100x20)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </h3>
