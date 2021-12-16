@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Technical Certifications
+Applied Data Science I: Scientific Computing & Python (with honors)
 Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
 
 ---
