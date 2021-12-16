@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m working as a freelancer and remote Data Scientist!
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m working as a part time remote Data Scientist!
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> I’m still a learner who is excited about data!
 
 
