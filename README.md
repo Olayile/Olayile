@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Olayile/Olayile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Olayile/Olayile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=olayile&show_icons=true&hide_border=true" />
+
+
 ## Technical Certifications
 Applied Data Science I: Scientific Computing & Python (with honors)
 Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
