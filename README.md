@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 Machine Learning & Statistical 
 Analysis (with honors)**](https://www.youracclaim.com/earner/earned/badge/4cf4c5a1-cca9-4bf0-8c73-9946b82efd29)| 
 |:---:|
-|![DP100](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-ii-machine-learning-statistical-analysis-with-honors (1).png)|
+|![DP100](https://github.com/Olayile/Olayile/blob/main/assets/applied-data-science-ii-machine-learning-statistical-analysis-with-honors%20(1).png)|
 
