@@ -11,7 +11,6 @@
 
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=olayile&show_icons=true&hide_border=true" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olayile" alt="anirbansaha96" /></a> </p>
 
 ## Technical Certifications
 Applied Data Science I: Scientific Computing & Python (with honors)
