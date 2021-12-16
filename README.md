@@ -3,7 +3,7 @@
 
 <!-- **Olayile/Olayile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m working as a part time remote Data Scientist!
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> I’m still a learner who is excited about data!
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=olayile&show_icons=true&hide_border=true" />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olayile" alt="anirbansaha96" /></a> </p>
 
 ## Technical Certifications
 Applied Data Science I: Scientific Computing & Python (with honors)
