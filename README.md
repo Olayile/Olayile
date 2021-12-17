@@ -14,8 +14,10 @@
 
 
 ## Technical Certifications
-Applied Data Science I: Scientific Computing & Python (with honors)
-Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
+- Applied Data Science I: Scientific Computing & Python (with honors)
+
+- Applied Data Science II:  Machine Learning & Statistical  Analysis (with honors)
+- AI-900: Microsoft Certified: Azure AI Fundamentals
 
 ---
 |[**Applied Data Science I:**](https://www.credly.com/badges/7e9483e7-0c5f-46b4-9080-d157cd06430f)|[**Applied Data Science II:**](https://www.youracclaim.com/earner/earned/badge/4cf4c5a1-cca9-4bf0-8c73-9946b82efd29)| [**AI-900**](https://www.credly.com/badges/71542d8f-2992-45e0-bc36-a22f55c381b2/public_url)|
