@@ -6,7 +6,7 @@
 
 
 
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m working as a part time remote Data Scientist!
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20">  I’m working as Data Scientist in financial services!
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> I’m still a learner who is excited about data!
 
 
